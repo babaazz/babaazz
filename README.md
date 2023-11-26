@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -- sunil121ml@gmail.com
+- 📫 How to reach me -- sunil.ssc1990@gmail.com
 
 <!---
 babaazz/babaazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
